@@ -1,0 +1,6 @@
+{
+  "name": "AURELIA — Đại Thiên Văn Cơ 3D",
+  "description": "Cỗ máy thiên văn cơ khí & hộp nhạc hòa âm 3D tương tác với chất liệu chế tác tinh xảo, chế độ tách lớp cơ khí và chụp ảnh nghệ thuật.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
